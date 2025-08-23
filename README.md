@@ -44,8 +44,6 @@ This project creates a Harry Potter-style invisibility cloak effect using comput
 python invisibility_cloak.py
 ```
 
-### Simple Version (Beginners)
-
 ```bash
 python simple_invisibility_cloak.py
 ```
