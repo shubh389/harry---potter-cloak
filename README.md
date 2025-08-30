@@ -18,7 +18,7 @@ This project creates a Harry Potter-style invisibility cloak effect using comput
 ## 📁 Project Files
 
 - `invisibility_cloak.py` - Enhanced version with all features
-- `simple_invisibility_cloak.py` - Simplified version
+- `simple_invisibility_cloak.py` - Simplified
 - `README.md` - This documentation
 
 ## 🎯 How it Works
